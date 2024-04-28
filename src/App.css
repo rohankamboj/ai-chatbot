@@ -1,0 +1,35 @@
+.bg-bisque {
+  background-color: bisque;
+  color: white;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /* align-items: end; */
+}
+
+.input {
+  width: 80%;
+  height: 30px;
+  margin: 20px;
+  background-color: white;
+  color: black;
+  border: white;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  color: black;
+  border: 1px solid black !important;
+  width: fit-content;
+}
+
+button {
+  background-color: transparent !important;
+  color: black;
+  border: 1px solid black !important;
+}
